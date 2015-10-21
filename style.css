@@ -1,0 +1,10 @@
+#si-canvas-container {
+    width: 100%;
+    text-align: center;
+}
+
+#si-canvas {
+    border: 1px solid #000000;
+	display: inline;
+	margin-top: 20px;
+}
